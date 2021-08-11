@@ -4,7 +4,7 @@ import {Text} from 'react-native';
 
 const App = () => {
   return <Text style = {{marginLeft:20, marginTop:70}}>
-    Hello World
+    Hello World Haiii
   </Text>
   
 };
